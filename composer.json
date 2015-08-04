@@ -1,0 +1,8 @@
+{
+  "name": "level-level/wp-cfm-acf",
+  "homepage": "https://github.com/level-level/wp-cfm-acf",
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "~1.0.12"
+  }
+}
